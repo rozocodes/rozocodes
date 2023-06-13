@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello friends 🤍
+- 🌱 I’m currently studying in Codecool
+- 🌞 Fun fact: I'm into psychology and astrology
 
 <!--
 **rozocodes/rozocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
